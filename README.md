@@ -1,7 +1,15 @@
 
 # about-me
-Full-stack developer with a depth of knowledge in both front-end and back-end technologies.
-I am committed to delivering high-quality, efficient solutions. Explore my repositories to gain insights into my skills.
+
+:wave: Hi, i'm Samuel Parente
+
+:house: I live in Celorico de Basto, Portugal
+
+:school: Studying Computer Science and Engineering at Universidade Aberta
+
+:muscle: Aspiring Full-stack developer
+
+:e-mail: Contact-me at samuel.parente@gmail.com
 
 
 ## Languages
