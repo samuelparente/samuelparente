@@ -9,10 +9,13 @@
 
 :muscle: Aspiring Full-stack developer
 
+:flags: Languages -  Portuguese (native) and English (professional)
+
 :e-mail: Contact-me at samuel.parente@gmail.com
 
 
-## Languages
+
+## Programming Languages
 - C
 - C#
 - HTML
@@ -20,7 +23,6 @@
 - JAVASCRIPT
 - PHP
 - PYTHON
-- JAVA
 - ASSEMBLY
 
 ## Frameworks / Library's:
