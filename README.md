@@ -35,4 +35,15 @@
 - SQLITE
 - MONGODB
 
+## Currently learning
+- C++
+- LARAVEL
+- REACT
+- JAVA
+- RUBY
+- JQUERY
+- DJANGO
+- ANGULAR
+- TYPESCRIPT
+
 
