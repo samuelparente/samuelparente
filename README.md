@@ -36,6 +36,7 @@
 - MYSQL
 - SQLITE
 - MONGODB
+- POSTGRESQL
 
 ## Currently learning
 - C++
