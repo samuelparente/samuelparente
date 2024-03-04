@@ -21,6 +21,7 @@
 - HTML
 - CSS
 - JAVASCRIPT
+- TYPESCRIPT
 - PHP
 - PYTHON
 - ASSEMBLY
@@ -36,6 +37,7 @@
 - MYSQL
 - SQLITE
 - MONGODB
+- POSTGRESQL
 
 ## Currently learning
 - C++
@@ -46,6 +48,5 @@
 - JQUERY
 - DJANGO
 - ANGULAR
-- TYPESCRIPT
 
 
