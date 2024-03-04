@@ -11,7 +11,7 @@
 
 :flags: Languages -  Portuguese (native) and English (professional)
 
-:point_right: My CV is here: cv/CV.md
+:point_right: My CV is here: [cv/CV.md](https://github.com/samuelparente/samuelparente/blob/main/cv/CV.md)
 
 :e-mail: Contact-me at samuel.parente@gmail.com
 
