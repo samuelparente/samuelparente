@@ -11,6 +11,8 @@
 
 :flags: Languages -  Portuguese (native) and English (professional)
 
+:point_right: My CV is here: cv/CV.md
+
 :e-mail: Contact-me at samuel.parente@gmail.com
 
 
