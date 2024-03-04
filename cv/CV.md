@@ -78,7 +78,7 @@ Hi, I'm Samuel Parente, an aspiring Full Stack Developer living in Celorico de B
     - TypeScript
     - Node.js
     - Bootstrap
-- **Fundação Bradesco**
+  - **Fundação Bradesco**
     - C#
     - HTML
     - CSS
@@ -86,7 +86,7 @@ Hi, I'm Samuel Parente, an aspiring Full Stack Developer living in Celorico de B
     - Power BI
     - Javascript
     - Python
-- **pirple.com**
+  - **pirple.com**
     - HTML
     - CSS
 
