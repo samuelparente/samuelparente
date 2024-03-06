@@ -31,6 +31,7 @@
 ## Frameworks / Library's:
 - BOOTSTRAP
 - NODEJS
+- REACT
 - .NET
 
 ## Databases
@@ -44,7 +45,6 @@
 ## Currently learning
 - C++
 - LARAVEL
-- REACT
 - JAVA
 - RUBY
 - JQUERY
