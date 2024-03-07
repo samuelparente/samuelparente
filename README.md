@@ -32,6 +32,7 @@
 - BOOTSTRAP
 - NODEJS
 - REACT
+- LARAVEL
 - .NET
 
 ## Databases
@@ -44,7 +45,6 @@
 
 ## Currently learning
 - C++
-- LARAVEL
 - JAVA
 - RUBY
 - JQUERY
