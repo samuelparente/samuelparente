@@ -26,6 +26,7 @@
 - TYPESCRIPT
 - PHP
 - PYTHON
+- JAVA
 - ASSEMBLY
 
 ## Frameworks / Library's:
@@ -45,7 +46,6 @@
 
 ## Currently learning
 - C++
-- JAVA
 - RUBY
 - JQUERY
 - DJANGO
