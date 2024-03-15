@@ -34,6 +34,7 @@
 - NODEJS
 - REACT
 - LARAVEL
+- SYMFONY
 - .NET
 
 ## Databases
@@ -50,7 +51,6 @@
 - JQUERY
 - DJANGO
 - ANGULAR
-- SYMFONY
 - DRUPAL
 
 
