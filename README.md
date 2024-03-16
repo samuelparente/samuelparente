@@ -31,6 +31,7 @@
 
 ## Frameworks / Library's:
 - BOOTSTRAP
+- JQUERY
 - NODEJS
 - REACT
 - LARAVEL
@@ -48,7 +49,6 @@
 ## Currently learning
 - C++
 - RUBY
-- JQUERY
 - DJANGO
 - ANGULAR
 - DRUPAL
