@@ -8,7 +8,7 @@
 
 ## Professional Summary
 
-Hi, I'm Samuel Parente, an aspiring Full Stack Developer living in Celorico de Basto, Portugal. Currently studying Computer Science and Engineering at Universidade Aberta. Experienced in web development with a strong background in creating efficient, scalable, and user-friendly applications. Proficient in a variety of programming languages including C, C#, HTML, CSS, JavaScript, TypeScript, PHP, Python, and Assembly. Skilled in frameworks/libraries such as Bootstrap, NodeJS, react, laravel and .NET. Experienced in databases including SQL, SQL Server, MySQL, SQLite, MongoDB, and PostgreSQL. Currently expanding skills in C++, Java, Ruby, jQuery, Django, and Angular. Demonstrated success in managing e-commerce platforms, developing automation tools, and implementing digital marketing strategies. Proven ability to collaborate with cross-functional teams to deliver high-quality software solutions.
+Hi, I'm Samuel Parente, an aspiring Full Stack Developer living in Celorico de Basto, Portugal. Currently studying Computer Science and Engineering at Universidade Aberta. Experienced in web development with a strong background in creating efficient, scalable, and user-friendly applications. Proficient in a variety of programming languages including C, C#, HTML, CSS, JavaScript, TypeScript, PHP, Python, Java and Assembly. Skilled in frameworks/libraries such as Bootstrap, NodeJS, react, laravel, symfony, jquery and .NET. Experienced in databases including SQL, SQL Server, MySQL, SQLite, MongoDB, and PostgreSQL. Currently expanding skills in C++, Ruby, Django, and Angular. Demonstrated success in managing e-commerce platforms, developing automation tools, and implementing digital marketing strategies. Proven ability to collaborate with cross-functional teams to deliver high-quality software solutions.
 
 ## Latest Work Experience
 
@@ -70,13 +70,13 @@ Digital marketing management (Google Ads, social networks and email marketing).
 
 - **Languages:** Portuguese (native), English (professional)
 - **Programming Languages:**
-  - C, C#, HTML, CSS, JavaScript, TypeScript, PHP, Python, Assembly
+  - C, C#, HTML, CSS, JavaScript, TypeScript, PHP, Python, Java, Assembly
 - **Frameworks/Libraries:**
-  - Bootstrap, NodeJS, React, Laravel, .NET
+  - Bootstrap, NodeJS, React, Laravel, Symfony, jQuery .NET
 - **Databases:**
   - SQL, SQL Server, MySQL, SQLite, MongoDB, PostgreSQL
 - **Currently Learning:**
-  - C++, Java, Ruby, jQuery, Django, Angular
+  - C++, Ruby, Django, Angular
 
 ## Certifications
 
@@ -100,6 +100,7 @@ Digital marketing management (Google Ads, social networks and email marketing).
     - MySQL
     - TypeScript
     - Node.js
+    - jQuery
     - Bootstrap
   - **Fundação Bradesco**
     - C#
@@ -113,7 +114,8 @@ Digital marketing management (Google Ads, social networks and email marketing).
     - HTML
     - CSS
   - **udemy.com**
-    - LARAVEL
+    - Laravel
+    - -Symfony
 
 - **Training in Digital Marketing**
   - **Program:** Atelier Digital from Google
