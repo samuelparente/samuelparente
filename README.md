@@ -34,6 +34,7 @@
 - JQUERY
 - NODEJS
 - REACT
+- ANGULAR
 - LARAVEL
 - SYMFONY
 - .NET
@@ -50,7 +51,6 @@
 - C++
 - RUBY
 - DJANGO
-- ANGULAR
 - DRUPAL
 
 
