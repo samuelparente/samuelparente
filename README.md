@@ -51,6 +51,8 @@
 - C++
 - RUBY
 - DJANGO
+- VUEJS
+- DJANGO
 - DRUPAL
 
 
