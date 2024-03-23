@@ -29,7 +29,7 @@
 - JAVA
 - ASSEMBLY
 
-## Frameworks / Library's:
+## Frameworks / Libraries:
 - BOOTSTRAP
 - JQUERY
 - NODE.JS
@@ -48,7 +48,7 @@
 - MONGODB
 - POSTGRESQL
 
-## Other
+## Methodologies/Practices
 - SCRUM
 - CI / CD PIPELINE
   
