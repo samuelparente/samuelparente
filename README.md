@@ -48,6 +48,10 @@
 - MONGODB
 - POSTGRESQL
 
+## Other
+- SCRUM
+- CI / CD PIPELINE
+  
 ## Currently learning
 - C++
 - RUBY
