@@ -81,7 +81,7 @@ Digital marketing management (Google Ads, social networks and email marketing).
   - Bootstrap, NodeJS, React, Laravel, Symfony, jQuery, Angular, .NET
 - **Databases:**
   - SQL, SQL Server, MySQL, SQLite, MongoDB, PostgreSQL
-- **Methodologies/practices
+- **Methodologies/practices**
   - Scrum, CI, CD
 - **Currently Learning:**
   - C++, Ruby, Django
