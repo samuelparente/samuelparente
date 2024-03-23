@@ -32,9 +32,10 @@
 ## Frameworks / Library's:
 - BOOTSTRAP
 - JQUERY
-- NODEJS
+- NODE.JS
 - REACT
 - ANGULAR
+- VUE.JS
 - LARAVEL
 - SYMFONY
 - .NET
@@ -50,8 +51,6 @@
 ## Currently learning
 - C++
 - RUBY
-- DJANGO
-- VUEJS
 - DJANGO
 - DRUPAL
 
