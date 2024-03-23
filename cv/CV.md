@@ -8,7 +8,13 @@
 
 ## Professional Summary
 
-Hi, I'm Samuel Parente, an aspiring Full Stack Developer living in Celorico de Basto, Portugal. Currently studying Computer Science and Engineering at Universidade Aberta. Experienced in web development with a strong background in creating efficient, scalable, and user-friendly applications. Proficient in a variety of programming languages including C, C#, HTML, CSS, JavaScript, TypeScript, PHP, Python, Java and Assembly. Skilled in frameworks such as Bootstrap, NodeJS,Vue.JS, React, Angular, Laravel, Symfony, Jquery and .NET. Experienced in databases including SQL, SQL Server, MySQL, SQLite, MongoDB, and PostgreSQL. Currently expanding skills in C++, Ruby, Drupal and Django. Demonstrated success in managing e-commerce platforms, developing automation tools, and implementing digital marketing strategies. Proven ability to collaborate with cross-functional teams to deliver high-quality software solutions.
+Hi, I'm Samuel Parente, an aspiring Full Stack Developer living in Celorico de Basto, Portugal, and i'm currently studying Computer Science and Engineering at Universidade Aberta. 
+
+I'm proficient in a variety of programming languages including C, C#, HTML, CSS, JavaScript, TypeScript, PHP, Python, Java and Assembly, skilled in frameworks such as Bootstrap, NodeJS,Vue.JS, React, Angular, Laravel, Symfony, Jquery and .NET, and also have experience in databases including SQL, SQL Server, MySQL, SQLite, MongoDB, and PostgreSQL. 
+
+Also i have experience in Scrum and ci/cd pipelines.
+
+I'm currently expanding skills in C++, Ruby, Drupal and Django.
 
 ## Latest Work Experience
 
@@ -75,6 +81,8 @@ Digital marketing management (Google Ads, social networks and email marketing).
   - Bootstrap, NodeJS, React, Laravel, Symfony, jQuery, Angular, .NET
 - **Databases:**
   - SQL, SQL Server, MySQL, SQLite, MongoDB, PostgreSQL
+- **Methodologies/practices
+  - Scrum, CI, CD
 - **Currently Learning:**
   - C++, Ruby, Django
 
