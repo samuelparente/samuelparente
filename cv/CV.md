@@ -78,7 +78,7 @@ Digital marketing management (Google Ads, social networks and email marketing).
 - **Programming Languages:**
   - C, C#, HTML, CSS, JavaScript, TypeScript, PHP, Python, Java, Assembly
 - **Frameworks/Libraries:**
-  - Bootstrap, NodeJS, React, Laravel, Symfony, jQuery, Angular, .NET
+  - Bootstrap, NodeJS, VueJS, React, Laravel, Symfony, jQuery, Angular, .NET
 - **Databases:**
   - SQL, SQL Server, MySQL, SQLite, MongoDB, PostgreSQL
 - **Methodologies/practices**
