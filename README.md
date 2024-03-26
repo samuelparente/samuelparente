@@ -54,7 +54,6 @@
 - CI / CD PIPELINE
   
 ## Currently learning
-- C++
 - RUBY
 - DJANGO
 - DRUPAL
