@@ -10,11 +10,11 @@
 
 Hi, I'm Samuel Parente, an aspiring Full Stack Developer living in Celorico de Basto, Portugal, and i'm currently studying Computer Science and Engineering at Universidade Aberta. 
 
-I'm proficient in a variety of programming languages including C, C#, HTML, CSS, JavaScript, TypeScript, PHP, Python, Java and Assembly, skilled in frameworks such as Bootstrap, NodeJS,Vue.JS, React, Angular, Laravel, Symfony, Jquery and .NET, and also have experience in databases including SQL, SQL Server, MySQL, SQLite, MongoDB, and PostgreSQL. 
+I'm proficient in a variety of programming languages including C, C#, C++, HTML, CSS, JavaScript, TypeScript, PHP, Python, Java and Assembly, skilled in frameworks such as Bootstrap, NodeJS,Vue.JS, React, Angular, Laravel, Symfony, Jquery and .NET, and also have experience in databases including SQL, SQL Server, MySQL, SQLite, MongoDB, and PostgreSQL. 
 
 Also i have experience in Scrum and ci/cd pipelines.
 
-I'm currently expanding skills in C++, Ruby, Drupal and Django.
+I'm currently expanding skills in Ruby, Drupal and Django.
 
 ## Latest Work Experience
 
@@ -76,7 +76,7 @@ Digital marketing management (Google Ads, social networks and email marketing).
 
 - **Languages:** Portuguese (native), English (professional)
 - **Programming Languages:**
-  - C, C#, HTML, CSS, JavaScript, TypeScript, PHP, Python, Java, Assembly
+  - C, C#, C++, HTML, CSS, JavaScript, TypeScript, PHP, Python, Java, Assembly
 - **Frameworks/Libraries:**
   - Bootstrap, NodeJS, VueJS, React, Laravel, Symfony, jQuery, Angular, .NET
 - **Databases:**
@@ -84,7 +84,7 @@ Digital marketing management (Google Ads, social networks and email marketing).
 - **Methodologies/practices**
   - Scrum, CI, CD
 - **Currently Learning:**
-  - C++, Ruby, Django
+  - Ruby, Django, Drupal
 
 ## Certifications
 
@@ -126,6 +126,7 @@ Digital marketing management (Google Ads, social networks and email marketing).
     - Symfony
     - Angular
     - Vue.js
+    - C++
 
 - **Training in Digital Marketing**
   - **Program:** Atelier Digital from Google
