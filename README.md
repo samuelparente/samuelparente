@@ -20,6 +20,7 @@
 ## Programming Languages
 - C
 - C#
+- C++
 - HTML
 - CSS
 - JAVASCRIPT
