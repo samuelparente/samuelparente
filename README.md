@@ -28,6 +28,7 @@
 - PHP
 - PYTHON
 - JAVA
+- GO
 - ASSEMBLY
 
 ## Frameworks / Libraries:
