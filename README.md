@@ -15,7 +15,8 @@
 
 :e-mail: Contact-me at samuel.parente@gmail.com
 
-
+:point_right: My website and portfolio is here:
+https://samuelparente.eu
 
 ## Programming Languages
 - C
