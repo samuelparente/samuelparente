@@ -8,19 +8,19 @@
 
 ## Professional Summary
 
-Hi, I'm Samuel Parente, an aspiring Full Stack Developer living in Celorico de Basto, Portugal, and i'm currently studying Computer Science and Engineering at Universidade Aberta. 
+Hi, I'm Samuel Parente, a Full Stack Developer living in Celorico de Basto, Portugal, and i'm currently studying Computer Science and Engineering at Universidade Aberta. 
 
-I'm proficient in a variety of programming languages including `C, C#, C++, HTML, CSS, JavaScript, TypeScript, PHP, Python, Java, GO and Assembly`, skilled in frameworks such as `Bootstrap, NodeJS,Vue.JS, React, Angular, Laravel, Symfony, Jquery and .NET`, and also have experience in databases including `SQL, SQL Server, MySQL, SQLite, MongoDB, and PostgreSQL.` 
+I'm proficient in a variety of programming languages including `C, C#, C++, HTML, CSS, JavaScript, TypeScript, PHP, Python, Java, GO and Assembly`, skilled in frameworks such as `Bootstrap, NodeJS,Vue.JS, React, Angular, Laravel, Symfony, Wordpress, Jquery and .NET`, and also have experience in databases including `SQL, SQL Server, MySQL, SQLite, MongoDB, and PostgreSQL.` 
 
 Also i have experience in `Scrum and ci/cd pipelines.`
 
-I'm currently expanding skills in `Ruby, Drupal and Django.`
+I'm currently expanding skills in `Ruby, Drupal, Magento and Django.`
 
 ## Latest Work Experience
 
 ### E-commerce Manager & Full Stack Developer
 - **Company:** Farmácia Central de Amarante
-- **Dates:** 01/07/2022 – Current
+- **Dates:** 01/07/2022 – 30/09/2024
 - **City:** Amarante, Portugal
 
 - **Description:**
