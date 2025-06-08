@@ -7,7 +7,7 @@
 
 :school: Studying Computer Science and Engineering at Universidade Aberta
 
-:muscle: Aspiring Full-stack developer
+:muscle: Full-stack developer
 
 :flags: Languages -  Portuguese (native) and English (professional)
 
@@ -41,6 +41,7 @@ https://samuelparente.eu
 - VUE.JS
 - LARAVEL
 - SYMFONY
+- WORDPRESS
 - .NET
 
 ## Databases
