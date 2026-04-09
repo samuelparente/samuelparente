@@ -1,133 +1,85 @@
-# Samuel Parente - Full Stack Developer
+# Samuel Filipe da Silva Parente
 
-- **Nationality:** Portuguese
-- **Date of Birth:** 01/02/1986
-- **Email Address:** samuel.parente@gmail.com
+**Senior Fullstack Engineer**  
+Based in Portugal – Available for EU Remote  
+
+- **Email:** samuel.parente@gmail.com
+- **Phone:** +351 918 972 411
+- **LinkedIn:** [samuel-parente-cbt](https://www.linkedin.com/in/samuel-parente-cbt/)
 - **GitHub:** [samuelparente](https://github.com/samuelparente)
-- **LinkedIn:** [Samuel Parente](https://www.linkedin.com/in/samuel-parente-cbt/)
+- **Website:** [samuelparente.eu](https://samuelparente.eu)
 
 ## Professional Summary
 
-Hi, I'm Samuel Parente, a Full Stack Developer living in Celorico de Basto, Portugal, and i'm currently studying Computer Science and Engineering at Universidade Aberta. 
+Senior Fullstack Engineer with extensive experience in architecting and modernizing business-critical systems within e-commerce and ERP-integrated environments. Specialized in PHP (Laravel), relational databases, and API-driven architectures, with a dedicated focus on backend design, system stability, and legacy refactoring.
 
-I'm proficient in a variety of programming languages including `C, C#, C++, HTML, CSS, JavaScript, TypeScript, PHP, Python, Java, GO and Assembly`, skilled in frameworks such as `Bootstrap, NodeJS,Vue.JS, React, Angular, Laravel, Symfony, Wordpress, Jquery and .NET`, and also have experience in databases including `SQL, SQL Server, MySQL, SQLite, MongoDB, and PostgreSQL.` 
+Proven track record in designing structured REST integrations that connect ERP platforms, marketplaces, and internal tools to streamline complex operational workflows. Highly proficient in owning projects end-to-end in fully remote settings, effectively translating intricate business requirements into reliable, maintainable, and performance-oriented software systems.
 
-Also i have experience in `Scrum and ci/cd pipelines.`
+## Work Experience
 
-I'm currently expanding skills in `Ruby, Drupal, Magento and Django.`
+### Senior Software Engineer  
+**Nuterra Lda. (peixeverde.pt)**  
+Portugal | Oct 2024 – Present
 
-## Latest Work Experience
+- Stabilized and refactored a legacy WooCommerce codebase, resolving structural inconsistencies and performance bottlenecks to improve system reliability.
+- Led the technical migration from shared hosting to a VPS environment, managing deployment adjustments and post-migration stabilization.
+- Designed and implemented structured REST integrations with ERP systems to synchronize real-time stock, pricing, and financial data.
+- Built internal operational platforms for logistics, marketing, finance workflows, and business process automation.
+- Redesigned backend data flows across e-commerce and internal systems, significantly reducing manual operational overhead.
+- Managed the ongoing transition from WooCommerce to Shopify, ensuring system stability and controlled feature evolution during the migration.
 
-### E-commerce Manager & Full Stack Developer
-- **Company:** Farmácia Central de Amarante
-- **Dates:** 01/07/2022 – 30/09/2024
-- **City:** Amarante, Portugal
+### Software Engineer  
+**Farmácia Central de Amarante – Online Store**  
+Amarante, Portugal | Jul 2022 – Oct 2024
 
-- **Description:**
-Development of necessary tools that made it possible to improve the efficiency of internal processes, including:
+- Designed and implemented multiple internal web platforms tightly integrated with SAGE ERP, improving pricing control, stock visibility, and order management workflows.
+- Architected a centralized pricing and campaign management system for 4,000+ SKUs, reducing manual intervention by around 90%.
+- Built a marketplace order management system integrating KuantoKusta via REST APIs, automating order ingestion and shipping label generation.
+- Developed real-time stock synchronization services between pharmacy systems and ERP, eliminating inventory inconsistencies and reducing order cancellations.
+- Designed purchasing and margin analysis tools, generating automated decision-support reports.
+- Implemented automated expiration monitoring systems to improve compliance and reduce waste.
+- Introduced RPA automation with UiPath for repetitive operational processes, increasing daily efficiency.
 
-• Development in `RPA (UIpath)` of the order printing process. The process of printing orders was manual
-(around 100 PDFs daily, in the morning) which consumed a lot of time. In this way, around 2 hours a day
-were saved, freeing the employee for other tasks.
+### Early Technical Foundation & Freelance Projects  
+Portugal | 2016 – 2020
 
-• Development with `HTML, CSS, JAVASCRIPT, PHP, SQL Server and BOOTSTRAP`, of a web platform for
-managing prices, campaigns and promotions, viewing warehouse stock and researching competitor
-prices. Integrated with ERP SAGE and the existing online store platform. Sales prices were changed
-manually one by one (more than 4000 products). This project allowed the time to enter sales prices to be
-reduced by 90%.
+- Delivered freelance embedded and IoT projects using C and Assembly on Microchip and Atmel microcontrollers.
+- Designed end-to-end solutions including circuit schematics, PCB layouts, firmware development, and hardware integration.
+- Worked with Bluetooth, RF communication, GPS, and Wi-Fi modules in resource-constrained environments, applying low-level system design and reliability principles.
 
-• Development with `HTML, CSS, JAVASCRIPT, PHP, BOOTSTRAP and REST API`, of a web platform for
-managing orders generated by KuantoKusta with integration via API. It also allows you to create
-shipping labels with just one click (the process was manual, with customer data having to be entered
-manually for each order). This improvement made it possible to immensely reduce the process time for
-sending an order.
+### Earlier Professional Experience  
+Portugal | 2004 – 2022
 
-• Development in `C# and SQL Server` of an application for purchasing management. With SAGE ERP
-integration, a PDF is sent to management's email every day with the stock below 10 units, with sales in the
-last 30 days, profit margin per sale and quantity sold in the 30 days. This application helped to reduce
-unnecessary stocks and make more accurate purchases from suppliers, reducing operating costs.
+Held technical and operational roles across electronics, systems maintenance, warehouse management, and procurement. Developed strong analytical thinking, process optimization mindset, and operational problem-solving skills that later translated into software engineering and automation initiatives.
 
-• Development in `C# and SQL Server` of an application that manages product expiration dates.
-Integrated with ERP SAGE, whenever there are products with a term equal to or less than 6 months, this
-report in PDF is sent to management's email. It was possible to reduce the waste of products at the end of
-their expiration date and avoid errors in sending products after their expiration date.
+## Technical Skills
 
-• Development in `C#` of an application to integrate the stock of pharmacy products (Sifarma) into the
-online store stock (ERP SAGE). This process was carried out manually twice a day (only from Monday to Friday), which resulted in many stock errors and lost sales as they sold products that, when checking the
-order, no longer existed and the order was cancelled, which caused inconvenience to customers. These
-errors were practically reduced by 100% as stock updates are carried out every 10 minutes.
+### Backend Engineering
+PHP (Laravel, Symfony), RESTful APIs, GraphQL
 
-Digital marketing management (Google Ads, social networks and email marketing).
+### Databases
+MySQL, PostgreSQL, SQL Server, MongoDB
 
-## Education and Training
+### Frontend Development
+JavaScript, TypeScript, React, Angular, Responsive Web Design
 
-### Graduate Student in Computer Science and Engineering
-- **Institution:** Universidade Aberta
-- **Dates:** 28/02/2022 – Current
-- **Country:** Portugal
+### Infrastructure & Systems
+Linux (Ubuntu), Apache, IIS, Docker, CI/CD workflows, AWS
 
-### Technological Course of Electrotechnics Technician / Electronics - 12th year level III
-- **Institution:** Colégio de Gaia
-- **Dates:** 14/09/2001 – 14/06/2005
-- **Country:** Portugal
-- **Field(s) of Study:** Electronics and Electricity
+### Engineering Practices
+Object-Oriented Programming (OOP), MVC, SOLID principles, Clean Code, Git, Agile/Scrum
 
-## Skills
+## Education
 
-- **Languages:** Portuguese (native), English (professional)
-- **Programming Languages:**
-  - C, C#, C++, HTML, CSS, JavaScript, TypeScript, PHP, Python, Java, GO, Assembly
-- **Frameworks/Libraries:**
-  - Bootstrap, NodeJS, VueJS, React, Laravel, Symfony, jQuery, Angular, .NET
-- **Databases:**
-  - SQL, SQL Server, MySQL, SQLite, MongoDB, PostgreSQL
-- **Methodologies/practices**
-  - Scrum, CI, CD
-- **Currently Learning:**
-  - Ruby, Django, Drupal
+### Bachelor’s Degree in Computer Engineering *(ongoing)*
+**Universidade Aberta, Portugal**  
+2022 – Present
 
-## Certifications
+### Technical Degree in Electronics & Electrotechnics
+**Colégio de Gaia, Portugal**  
+Completed 2005
 
-- **Languages and Technologies from:**
-  - **Universidade Aberta**
-    - C
-    - HTML
-    - CSS
-    - Javascript
-    - PHP
-  - **Colégio de Gaia**
-    - C
-    - Assembly
-  - **w3schools.com**
-    - C#
-    - Python
-    - Postgresql
-    - SQLite
-    - MongoDB
-    - SQL Server
-    - MySQL
-    - TypeScript
-    - Node.js
-    - jQuery
-    - Bootstrap
-    - GO
-  - **Fundação Bradesco**
-    - C#
-    - HTML
-    - CSS
-    - SQL
-    - Power BI
-    - Javascript
-    - Python
-  - **pirple.com**
-    - HTML
-    - CSS
-  - **udemy.com**
-    - Laravel
-    - Symfony
-    - Angular
-    - Vue.js
-    - C++
+## Languages
 
-- **Training in Digital Marketing**
-  - **Program:** Atelier Digital from Google
+- **Portuguese:** Native
+- **English:** Professional working proficiency (B2)
