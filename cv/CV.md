@@ -1,10 +1,9 @@
 # Samuel Filipe da Silva Parente
 
 **Senior Fullstack Engineer**  
-Based in Portugal – Available for EU Remote  
+Based in Portugal
 
 - **Email:** samuel.parente@gmail.com
-- **Phone:** +351 918 972 411
 - **LinkedIn:** [samuel-parente-cbt](https://www.linkedin.com/in/samuel-parente-cbt/)
 - **GitHub:** [samuelparente](https://github.com/samuelparente)
 - **Website:** [samuelparente.eu](https://samuelparente.eu)
