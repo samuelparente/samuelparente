@@ -1,64 +1,36 @@
+# About me
 
-# about-me
+Hi, I'm Samuel Parente — a Senior Fullstack Engineer based in Portugal.
 
-:wave: Hi, i'm Samuel Parente
+I design, modernize, and scale business-critical software systems for e-commerce and ERP-connected operations. My work sits at the intersection of backend architecture, systems integration, operational automation, and product delivery — helping businesses reduce complexity, improve reliability, and build software that supports real commercial growth.
 
-:house: I live in Celorico de Basto, Portugal
+My strongest background is in PHP/Laravel, SQL databases, REST and GraphQL integrations, and fullstack product engineering. Over the years, I’ve led projects involving legacy recovery, internal platform development, stock and pricing synchronization, marketplace integrations, workflow automation, and infrastructure transitions. I’m particularly driven by problems that require technical depth, business understanding, and long-term thinking.
 
-:school: Studying Computer Science and Engineering at Universidade Aberta
+I bring an end-to-end mindset to engineering: understanding operational bottlenecks, translating business needs into structured systems, and delivering maintainable solutions with a strong focus on stability, performance, and clarity.
 
-:muscle: Full-stack developer
+Alongside my professional work, I’m currently studying Computer Science and Engineering at Universidade Aberta.
 
-:flags: Languages -  Portuguese (native) and English (professional)
+## Core expertise
 
-:point_right: My CV is here: [cv/CV.md](https://github.com/samuelparente/samuelparente/blob/main/cv/CV.md)
+- Backend architecture and Laravel engineering
+- ERP, marketplace, and API integrations
+- Legacy system recovery and modernization
+- Internal platforms and operational automation
+- Relational databases and data flow design
+- Fullstack product development
+- Scalable, maintainable business software
 
-:e-mail: Contact-me at samuel.parente@gmail.com
+## Tech stack
 
-:point_right: My website and portfolio is here:
-https://samuelparente.eu
+**Backend:** PHP, Laravel, Symfony, REST APIs, GraphQL  
+**Frontend:** JavaScript, TypeScript, React, Angular  
+**Databases:** MySQL, PostgreSQL, SQL Server, MongoDB  
+**Infrastructure:** Linux, Apache, Docker, AWS, CI/CD  
+**Practices:** OOP, MVC, SOLID, Clean Code, Git, Agile/Scrum
 
-## Programming Languages
-- C
-- C#
-- C++
-- HTML
-- CSS
-- JAVASCRIPT
-- TYPESCRIPT
-- PHP
-- PYTHON
-- JAVA
-- GO
-- ASSEMBLY
+## Contact
 
-## Frameworks / Libraries:
-- BOOTSTRAP
-- JQUERY
-- NODE.JS
-- REACT
-- ANGULAR
-- VUE.JS
-- LARAVEL
-- SYMFONY
-- WORDPRESS
-- .NET
-
-## Databases
-- SQL
-- SQL SERVER
-- MYSQL
-- SQLITE
-- MONGODB
-- POSTGRESQL
-
-## Methodologies/Practices
-- SCRUM
-- CI / CD PIPELINE
-  
-## Currently learning
-- RUBY
-- DJANGO
-- DRUPAL
-
-
+- Website: https://samuelparente.eu
+- CV: [cv/CV.md](https://github.com/samuelparente/samuelparente/blob/main/cv/CV.md)
+- Email: samuel.parente@gmail.com
+- LinkedIn: linkedin.com/in/samuel-parente-cbt
